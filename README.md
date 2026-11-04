@@ -23,11 +23,11 @@ An exploratory data analysis project on retail transaction data using Python, Pa
 - 🔍 [Business Questions Answered](#-business-questions-answered)
 - 💡 [Key Business Insights](#-key-business-insights)
 - 🚀 [Strategic Recommendations](#-strategic-recommendations)
+- 🧠 [Sample Visualization](#-sample-visualization)
 - ⚠️ [Limitations](#️-limitations)
 - ⚙️ [How to Run the Project](#️-how-to-run-the-project)
 - 🔮 [Future Improvements](#-future-improvements)
 - 🧠 [Skills Demonstrated](#-skills-demonstrated)
-- 🙏 [Acknowledgements](#-acknowledgements)
 - 👩‍💻 [Author](#-author)
 
 ---
@@ -294,6 +294,15 @@ The following findings are based on the calculated metrics and aggregations in t
 
 ---
 
+## 🧠 Sample Visualization
+
+<img width="1190" height="490" alt="image" src="https://github.com/user-attachments/assets/fd8d2f58-b91d-4746-a2c6-187b86da32d8" />
+<img width="1090" height="490" alt="image" src="https://github.com/user-attachments/assets/9cc07671-b569-4425-9c94-16f2a6c6a898" />
+<img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/40e3160d-daf9-4fab-8ed0-aa570881b7c8" />
+<img width="1190" height="490" alt="image" src="https://github.com/user-attachments/assets/24d32070-bd6c-4257-a2ed-55287d9c6b8c" />
+
+---
+
 ## ⚠️ Limitations
 
 - 📅 The dataset covers a limited historical period, restricting long-term trend and seasonality analysis.
@@ -379,24 +388,10 @@ Open the project's `.ipynb` file and run the cells sequentially.
 
 ---
 
-## 🙏 Acknowledgements
-
-Special thanks to the **[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)** for providing the Online Retail dataset used in this project.
-
----
-
 ## 👩‍💻 Author
 
-**Bhanu**
+**Bhawna**
 
-🔗 **GitHub:** [bhawna1906](https://github.com/bhawna1906)
+Data Scientist
 
-📂 **Project Repository:** [UCI Online Retail EDA](https://github.com/bhawna1906/UCI-Online-Retail-EDA)
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
-
-💬 Feedback and suggestions for improvement are welcome.
-
-*Built with 🐍 Python, 📊 data analysis, and 💡 business-focused thinking.*
+Feel free to connect with me on LinkedIn and see more of my projects!
